@@ -48,7 +48,7 @@ function TaskForm() {
       );
     }
 
-    navigate("/redux-toolkit-example");
+    navigate("/");
   };
 
   return (
