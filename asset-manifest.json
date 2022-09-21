@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NormanCastrillo/redux-toolkit-example/static/css/main.7dd2e8eb.css",
+    "main.js": "/NormanCastrillo/redux-toolkit-example/static/js/main.0fe337aa.js",
+    "index.html": "/NormanCastrillo/redux-toolkit-example/index.html",
+    "main.7dd2e8eb.css.map": "/NormanCastrillo/redux-toolkit-example/static/css/main.7dd2e8eb.css.map",
+    "main.0fe337aa.js.map": "/NormanCastrillo/redux-toolkit-example/static/js/main.0fe337aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd2e8eb.css",
+    "static/js/main.0fe337aa.js"
+  ]
+}
