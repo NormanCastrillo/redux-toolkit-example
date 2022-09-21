@@ -1,7 +1,7 @@
 {
   "name": "task_list_react_redux_toolkit",
   "version": "0.1.0",
-  "homepage": "https://normancastrillo.github.io/redux-toolkit-example/",
+  "homepage": "http://normancastrillo.github.io/redux-toolkit-example",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
